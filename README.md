@@ -54,6 +54,9 @@ This type of classification model can be used in real-world systems such as:
 5.Fraud and phishing detection
 
 *OUTPUTS:*
+![Image](https://github.com/user-attachments/assets/312595d2-fd8c-4705-8b8e-c4c6dc3ac5f1)
+
+
 ![Image](https://github.com/user-attachments/assets/2c261e1e-7783-4fcb-9563-a578f569efda)
 
-![Image](https://github.com/user-attachments/assets/312595d2-fd8c-4705-8b8e-c4c6dc3ac5f1)
+
